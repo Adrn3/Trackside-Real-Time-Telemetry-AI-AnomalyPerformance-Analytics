@@ -49,8 +49,8 @@ L'alerte d'anomalie aérodynamique est validée uniquement lorsque :
      python extract_telemetry.py
 ```
 Étape 2 : Chargement et Simulation dans MATLAB
-    Ouvrez MATLAB 
-    Exécutez le fichier analyse_telemetry_f1.m pour charger les variables (vitesse, throttle, brake, time_seconds) dans le Workspace et vérifier le jumeau numérique.
+    Ouvrir MATLAB 
+    Exécuter le fichier analyse_telemetry_f1.m pour charger les variables (vitesse, throttle, brake, time_seconds) dans le Workspace et vérifier le jumeau numérique.
 
 Étape 3 : Lancement du Pit-Wall Dashboard
     Ouvrez l'application F1_PitWall_Dashboard.mlapp via App Designer
