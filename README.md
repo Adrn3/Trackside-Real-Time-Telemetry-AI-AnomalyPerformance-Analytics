@@ -4,6 +4,7 @@ Ce projet est un algorithme de détection d'anomalies (Machine Learning Toolbox)
 ![MATLAB](https://img.shields.io/badge/MATLAB-R2023b%2B-blue?logo=mathworks)
 ![Simulink](https://img.shields.io/badge/Simulink-Model-orange?logo=mathworks)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-green?logo=python)
+![F1 Telemetry](https://img.shields.io/badge/Data-FastF1%20API-red)
 
 ## Algorthime de détection IA
 
