@@ -27,7 +27,7 @@ Ce projet est un algorithme de détection d'anomalies (Machine Learning Toolbox)
      sudo -H ./install
      xhost -SI:localuser:root
      ```
-## Clonez ce dépôt
+### Cloner le projet
 ```bash
      git clone https://github.com/Adrn3/Trackside-Real-Time-Telemetry-AI-AnomalyPerformance-Analytics
 ```
