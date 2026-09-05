@@ -5,6 +5,8 @@ Ce projet est un algorithme de détection d'anomalies (Machine Learning Toolbox)
 ![Simulink](https://img.shields.io/badge/Simulink-Model-orange?logo=mathworks)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-green?logo=python)
 
+## Algorthime de détection IA
+
 ## Préréquis & Installation
 
 ### Python
@@ -29,11 +31,27 @@ Ce projet est un algorithme de détection d'anomalies (Machine Learning Toolbox)
 ```bash
      git clone https://github.com/Adrn3/Trackside-Real-Time-Telemetry-AI-AnomalyPerformance-Analytics
 ```
-## Exécutez le script
+## Guide d'utilisation
 ```bash
-     
+     python extract_telemetry.py
 ```
+Étape 2 : Chargement et Simulation dans MATLAB
+
+    Ouvrez MATLAB et placez-vous dans le dossier du projet.
+
+    Exécutez le script principal analyse_telemetry_f1.m pour charger les variables (vitesse, throttle, brake, time_seconds) dans le Workspace et vérifier le jumeau numérique.
+
+Étape 3 : Lancement du Pit-Wall Dashboard
+
+    Ouvrez l'application F1_PitWall_Dashboard.mlapp via App Designer ou en tapant son nom dans la console.
+
+    Cliquez sur le bouton Run.
+
+    Cliquez sur le bouton LANCER L'ANALYSE PISTE pour lancer le diagnostic IA en temps réel.
 
 ## Dépendances
 Bibliothèques utilisées :
 FastF1
+Pandas
+Numpy
+Matplotlib
