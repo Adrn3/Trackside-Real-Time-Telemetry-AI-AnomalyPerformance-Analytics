@@ -1,5 +1,9 @@
 # Trackside-Real-Time-Telemetry-AI-AnomalyPerformance-Analytics
 Ce projet est un algorithme de détection d'anomalies (Machine Learning Toolbox) prédisant la dégradation des pneus et les pannes capteurs via la modélisation dynamique du véhicule sous Simulink afin de simuler les flux de données (télémétrie) en temps réel.
+![MATLAB](https://img.shields.io/badge/MATLAB-R2023b%2B-blue?logo=mathworks)
+![Simulink](https://img.shields.io/badge/Simulink-Model-orange?logo=mathworks)
+![Python](https://img.shields.io/badge/Python-3.10%2B-green?logo=python)
+![F1 Telemetry](https://img.shields.io/badge/Data-FastF1 API-red)
 
 # Installation
 
