@@ -14,7 +14,8 @@ L'algorithme de détection calcule le résidu entre la vitesse réelle de la mon
 Afin d'éviter de fausses alertes générées par les variations de freinage ou d'adhérence en virage, un masque logique est appliqué :
 - $$\text{Masque}(t) = (\text{Throttle}(t) > 80\%)$$
 
-Le seuil dynamique est calculé sur la période nominale saine ($t < 35\text{s}$) :$$\text{Seuil} = \mu_{\text{sain}} + 2 \cdot \sigma_{\text{sain}}$$
+Le seuil dynamique est calculé sur la période nominale saine ($t < 35\text{s}$) :
+$$\text{Seuil} = \mu_{\text{sain}} + 2 \cdot \sigma_{\text{sain}}$$
 
 L'alerte d'anomalie aérodynamique est validée uniquement lorsque :
 $$\text{Alerte}(t) = (\text{Résidu}(t) > \text{Seuil}) \land \text{Masque}(t) \land (t \ge 35\text{s})$$
