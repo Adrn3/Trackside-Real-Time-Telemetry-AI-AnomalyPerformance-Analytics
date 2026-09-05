@@ -53,9 +53,9 @@ L'alerte d'anomalie aérodynamique est validée uniquement lorsque :
     Exécuter le fichier analyse_telemetry_f1.m pour charger les variables (vitesse, throttle, brake, time_seconds) dans le Workspace et vérifier le jumeau numérique.
 
 Étape 3 : Lancement du Pit-Wall Dashboard
-    Ouvrez l'application F1_PitWall_Dashboard.mlapp via App Designer
-    Cliquez sur le bouton Run.
-    Cliquez sur le bouton LANCER L'ANALYSE PISTE pour lancer le diagnostic IA en temps réel.
+    Ouvrir l'application F1_PitWall_Dashboard.mlapp via App Designer
+    Cliquer sur le bouton Run.
+    Cliquer sur le bouton LANCER L'ANALYSE PISTE pour lancer le diagnostic IA en temps réel.
 
 ## Dépendances
 Bibliothèques utilisées :
