@@ -3,11 +3,9 @@ Ce projet est un algorithme de détection d'anomalies (Machine Learning Toolbox)
 ![MATLAB](https://img.shields.io/badge/MATLAB-R2023b%2B-blue?logo=mathworks)
 ![Simulink](https://img.shields.io/badge/Simulink-Model-orange?logo=mathworks)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-green?logo=python)
-![F1 Telemetry](https://img.shields.io/badge/Data-FastF1 API-red)
 
-# Installation
+## Préréquis & Installation
 
-## Installation nécessaire
 ### Python
 - **Windows** : Téléchargez Python depuis [python.org](https://www.python.org/). 
 - **Linux** : Installez Python via la commande :  
@@ -26,11 +24,11 @@ Ce projet est un algorithme de détection d'anomalies (Machine Learning Toolbox)
      sudo -H ./install
      xhost -SI:localuser:root
      ```
-# Clonez ce dépôt
+## Clonez ce dépôt
 ```bash
      git clone https://github.com/Adrn3/Trackside-Real-Time-Telemetry-AI-AnomalyPerformance-Analytics
 ```
-# Exécutez le script
+## Exécutez le script
 ```bash
      
 ```
