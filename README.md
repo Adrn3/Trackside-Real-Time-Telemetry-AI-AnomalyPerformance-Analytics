@@ -4,12 +4,13 @@ Ce projet est un algorithme de détection d'anomalies (Machine Learning Toolbox)
 # Installation
 
 ## Installation nécessaire
+### Python
 - **Windows** : Téléchargez Python depuis [python.org](https://www.python.org/). 
 - **Linux** : Installez Python via la commande :  
      ```bash
      sudo apt install python3.10
      ```
-  
+### Matlab + Simulink
 - **Windows** : Téléchargez Matlab depuis [matlab.com](https://www.mathworks.com/help/install/ug/install-products-with-internet-connection.html). 
 - **Linux** : Installez Matlab via la commande :  
      ```bash
@@ -27,9 +28,8 @@ Ce projet est un algorithme de détection d'anomalies (Machine Learning Toolbox)
 ```
 # Exécutez le script
 ```bash
-     python morpion.py
+     
 ```
-## Algorithme Minimax
 
 ## Dépendances
 Bibliothèques utilisées :
