@@ -36,17 +36,12 @@ Ce projet est un algorithme de détection d'anomalies (Machine Learning Toolbox)
      python extract_telemetry.py
 ```
 Étape 2 : Chargement et Simulation dans MATLAB
-
-    Ouvrez MATLAB et placez-vous dans le dossier du projet.
-
-    Exécutez le script principal analyse_telemetry_f1.m pour charger les variables (vitesse, throttle, brake, time_seconds) dans le Workspace et vérifier le jumeau numérique.
+    Ouvrez MATLAB 
+    Exécutez le fichier analyse_telemetry_f1.m pour charger les variables (vitesse, throttle, brake, time_seconds) dans le Workspace et vérifier le jumeau numérique.
 
 Étape 3 : Lancement du Pit-Wall Dashboard
-
-    Ouvrez l'application F1_PitWall_Dashboard.mlapp via App Designer ou en tapant son nom dans la console.
-
+    Ouvrez l'application F1_PitWall_Dashboard.mlapp via App Designer
     Cliquez sur le bouton Run.
-
     Cliquez sur le bouton LANCER L'ANALYSE PISTE pour lancer le diagnostic IA en temps réel.
 
 ## Dépendances
