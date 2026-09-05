@@ -59,7 +59,7 @@ L'alerte d'anomalie aérodynamique est validée uniquement lorsque :
 
 ## Dépendances
 Bibliothèques utilisées :
-FastF1
-Pandas
-Numpy
-Matplotlib
+**FastF1**
+**Pandas**
+**Numpy**
+**Matplotlib**
